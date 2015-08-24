@@ -1,4 +1,4 @@
-oh-my-zsh::theme::seeker
+oh-my-zsh::theme::ta
 ========================
 
 This is my theme which forked by the https://github.com/tonyseek/oh-my-zsh-seeker-theme
