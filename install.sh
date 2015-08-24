@@ -3,8 +3,8 @@
 set -e
 
 _ZSH_CUSTOM="$HOME/.oh-my-zsh/custom"
-SRC_URL="https://github.com/tonyseek/oh-my-zsh-seeker-theme.git"
-DST_DIR="${ZSH_CUSTOM:-${_ZSH_CUSTOM}}/themes/seeker"
+SRC_URL="https://github.com/torchingloom/oh-my-zsh-ta-theme.git"
+DST_DIR="${ZSH_CUSTOM:-${_ZSH_CUSTOM}}/themes/ta"
 
 mkdir -p `dirname ${DST_DIR}`
 
